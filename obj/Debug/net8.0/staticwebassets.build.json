@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "KoH+3exhNYE1f06Kuivlilasds5ZSZwRhsw+X8HLtNE=",
+  "Source": "pets",
+  "BasePath": "_content/pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pets\\wwwroot",
+      "Source": "pets",
+      "ContentRoot": "C:\\Users\\JoãoPaulo\\Downloads\\pets\\wwwroot\\",
+      "BasePath": "_content/pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\JoãoPaulo\\Downloads\\pets\\wwwroot\\index.html",
+      "SourceId": "pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JoãoPaulo\\Downloads\\pets\\wwwroot\\",
+      "BasePath": "_content/pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
